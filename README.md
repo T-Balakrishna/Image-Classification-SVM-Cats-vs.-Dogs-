@@ -29,4 +29,8 @@ Contains:
 
 ## 🧩 Future Improvements
 - Integrate CNN feature extraction  
-- Implement hyperparameter optimization with Grid Search  
+- Implement hyperparameter optimization with Grid Search
+
+## 🧑‍💻 Author
+<strong>Balakrishna T</strong><br>
+💼 [GitHub](https://github.com/T-Balakrishna) • 🌐 [Portfolio](https://balakrishnat.vercel.app) • ✉️ [Email](https://mail.google.com/mail/?view=cm&to=tbalakrishna2005@gmail.com)  
