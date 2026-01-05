@@ -22,8 +22,6 @@ Contains:
 3. Train SVM with RBF/linear kernel  
 4. Evaluate using confusion matrix and accuracy metrics  
 
-## 📸 Sample Output
-![SVM Classification Result](https://github.com/user-attachments/assets/svm-classification-sample.png)
 
 ## 📈 Results
 - Achieved strong separation between classes  
